@@ -1,0 +1,61 @@
+
+#mainheader{
+    background-color: cadetblue;
+    border-bottom: 2px solid grey;
+    padding: 5px;
+}
+
+.container-fluid
+{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+nav ul li a {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.footer-full
+{
+    background-color: cadetblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.col-sm-3 img{
+    padding-top: 50px;
+}
+
+
+#submitButton{
+    background-color: slategrey;
+}
+
+#CEO-btn{
+    background-color: cadetblue;
+    border-color: bisque;
+}
+
+#staff1_btn{
+    background-color: cadetblue;
+    border-color: bisque;
+}
+
+#staff2_btn{
+    background-color: cadetblue;
+    border-color: bisque;
+}
+#staff3_btn{
+    background-color: cadetblue;
+    border-color: bisque;
+}
+#staff4_btn{
+    background-color: cadetblue;
+    border-color: bisque;
+}
+#staff5_btn{
+    background-color: cadetblue;
+    border-color: bisque;
+}
